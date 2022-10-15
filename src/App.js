@@ -1,8 +1,6 @@
 import "./App.css";
 import Header from "./Header";
-import Superior from "./Superior";
-import Centro from "./Centro";
-import Inferior from "./Inferior";
+
 import Inicio from "./paginas/Inicio";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Fin from "./paginas/Camera";
