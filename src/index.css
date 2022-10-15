@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: normal;
+
+
+  height: 105vh;
+  background: rgb(206, 21, 212);
+  background: linear-gradient(
+    180deg,
+    rgba(238, 69, 64, 1) 0%,
+    rgb(52, 39, 235) 15%,
+    rgb(28, 128, 19) 30%,
+    rgb(209, 207, 68) 45%,
+    rgb(79, 53, 223) 100%
+  );
+}
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+
